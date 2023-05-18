@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personData xmlns:a="https/xmldata/id:1"
+xmlns:b="https/xmldata/id:2">
+
+    <userdata id="1">
+        <a:name>haya</a:name>
+        <a:class>one</a:class>
+        <a:grade>A1</a:grade>
+        <a:percentage>88%</a:percentage>
+    </userdata>
+
+    <userdata id="2">
+        <b:name>merub</b:name>
+        <b:class>one</b:class>
+        <b:grade>A1</b:grade>
+        <b:percentage>88%</b:percentage>
+    </userdata>
+
+</personData>
